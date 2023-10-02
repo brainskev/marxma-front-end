@@ -1,17 +1,13 @@
-# marxma-front-end
-
-Maxma is a user-friendly booking platform designed to connect users with businesses offering various services. Whether you're looking to schedule appointments with local salons, healthcare providers, or any other service, Maxma has you covered.
-
 <a name="readme-top"></a>
 
-<h1 align='center'> Rails Blog</h1>
+<h1 align='center'>Marxma Front-End</h1>
 
 ![Ruby on rails](image.png)
 
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [ Rails Blog ](#-My-Blog-App-)
+- [ marxma-front-end ](#-My-Blog-App-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -30,16 +26,16 @@ Maxma is a user-friendly booking platform designed to connect users with busines
 
 <!-- PROJECT DESCRIPTION -->
 
-# Rails Blog <a name="about-project"></a>
+# # marxma-front-end <a name="about-project"></a>
 
-> Rails Blog app is a blog website built using Ruby on Rails. Readers can leave comments and like posts, and administrators can manage content. The site includes user authentication and a search feature.
+Maxma is a user-friendly booking platform designed to connect users with businesses offering various services. Whether you're looking to schedule appointments with local salons, healthcare providers, or any other service, Maxma has you covered.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Ruby On Rails</summary>
+  <summary>React</summary>
   <ul>
     <li><a href="">Postgresql</a></li>
   </ul>
@@ -112,18 +108,6 @@ To deploy the app you can use
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-## <a> 👤 Besufekad Alemu </a>
-
-- GitHub: [@Besufekad-HAZ](https://github.com/Besufekad-HAZ)
-- Twitter: [@BesufekadAlemu7](https://twitter.com/BesufekadAlemu7)
-- LinkedIn: [@besura](www.linkedin.com/in/besura)
-
-## <a> 👤 Besufekad Alemu </a>
-
-- GitHub: [@Besufekad-HAZ](https://github.com/Besufekad-HAZ)
-- Twitter: [@BesufekadAlemu7](https://twitter.com/BesufekadAlemu7)
-- LinkedIn: [@besura](www.linkedin.com/in/besura)
 
 👤 **Kelvin kaviku**
 
